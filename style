@@ -1,0 +1,36 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    color:black;
+    background-color: rgb(204, 204, 204);
+}
+h1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    text-decoration: underline;
+}
+
+img {
+    display:block;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 1px solid black ;
+}
+h3 {
+    display: flex;
+    text-decoration: none;
+    justify-content: right;
+}
+ul{
+    display:flex;
+    justify-content:space-between;
+    padding: 10px;
+    list-style-type: none;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
